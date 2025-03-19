@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm Maria👋
 # 💫 About Me:
 🔭 Working on LeetCode & DSA basics<br>🧑‍🤝‍🧑 Open to beginner-friendly coding contests<br>🤝 Need help with recursion & medium DSA<br>🌱 Learning Front-end dev<br>💬 Ask me about Python<br>⚡ Fun fact: I struggle, but never quit!
 
