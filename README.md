@@ -25,27 +25,9 @@
 
 ### Most Used Languages
 
-```txt
-C++          ████████████████████  40.00%
-C            █████████████░░░░░░░  30.00%
-Python       ████████░░░░░░░░░░░░  15.00%
-JavaScript   ███░░░░░░░░░░░░░░░░░   8.00%
-HTML & CSS   ██░░░░░░░░░░░░░░░░░░   7.00%
+<span style="color:#ff69b4;">C++</span> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <span style="color:white;">40.00%</span>  
+<span style="color:#4CAF50;">C</span> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <span style="color:white;">30.00%</span>  
+<span style="color:#3498db;">Python</span> ▓▓▓▓▓▓▓▓░░░░░░░░░░░ <span style="color:white;">15.00%</span>  
+<span style="color:#f1c40f;">JavaScript</span> ▓▓▓░░░░░░░░░░░░░░░ <span style="color:white;">8.00%</span>  
+<span style="color:#e67e22;">HTML & CSS</span> ▓░░░░░░░░░░░░░░░░░ <span style="color:white;">7.00%</span>  
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**tahsin-maria/tahsin-maria** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
