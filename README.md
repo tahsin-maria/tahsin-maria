@@ -23,11 +23,32 @@
 [![](https://visitcount.itsvg.in/api?id=tahsin-maria&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-### Most Used Languages
+<div style="background-color:#1e1e1e; padding:15px; border-radius:10px; width:300px; color:white; font-family:Arial, sans-serif;">
+    <h3 style="margin-bottom:10px;">Most Used Languages</h3>
+    
+    <div style="display:flex; align-items:center; margin-bottom:5px;">
+        <div style="width:80%; height:10px; background-color:#ff6384; border-radius:5px;"></div>
+        <span style="margin-left:10px;">C++ 40%</span>
+    </div>
+    
+    <div style="display:flex; align-items:center; margin-bottom:5px;">
+        <div style="width:60%; height:10px; background-color:#36a2eb; border-radius:5px;"></div>
+        <span style="margin-left:10px;">C 30%</span>
+    </div>
 
-<span style="color:#ff69b4;">C++</span> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <span style="color:white;">40.00%</span>  
-<span style="color:#4CAF50;">C</span> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <span style="color:white;">30.00%</span>  
-<span style="color:#3498db;">Python</span> ▓▓▓▓▓▓▓▓░░░░░░░░░░░ <span style="color:white;">15.00%</span>  
-<span style="color:#f1c40f;">JavaScript</span> ▓▓▓░░░░░░░░░░░░░░░ <span style="color:white;">8.00%</span>  
-<span style="color:#e67e22;">HTML & CSS</span> ▓░░░░░░░░░░░░░░░░░ <span style="color:white;">7.00%</span>  
+    <div style="display:flex; align-items:center; margin-bottom:5px;">
+        <div style="width:30%; height:10px; background-color:#4bc0c0; border-radius:5px;"></div>
+        <span style="margin-left:10px;">Python 15%</span>
+    </div>
+
+    <div style="display:flex; align-items:center; margin-bottom:5px;">
+        <div style="width:15%; height:10px; background-color:#ffcd56; border-radius:5px;"></div>
+        <span style="margin-left:10px;">JavaScript 8%</span>
+    </div>
+
+    <div style="display:flex; align-items:center;">
+        <div style="width:10%; height:10px; background-color:#ff9f40; border-radius:5px;"></div>
+        <span style="margin-left:10px;">HTML & CSS 7%</span>
+    </div>
+</div>
 
