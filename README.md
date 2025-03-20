@@ -13,14 +13,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=tahsin-maria&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahsin-maria&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Other Used Languages
-
-```txt
-C            █████████████░░░░░░░  30.00%
-Python       ████████░░░░░░░░░░░░  15.00%
-JavaScript   ███░░░░░░░░░░░░░░░░░   8.00%
-HTML & CSS   ██░░░░░░░░░░░░░░░░░░   7.00%
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
