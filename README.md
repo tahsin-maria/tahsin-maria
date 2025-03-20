@@ -23,8 +23,15 @@
 [![](https://visitcount.itsvg.in/api?id=tahsin-maria&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-### Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&langs_count=5&layout=compact&theme=dark)
+### Most Used Languages
+
+```txt
+C++          ████████████████████  40.00%
+C            █████████████░░░░░░░  30.00%
+Python       ████████░░░░░░░░░░░░  15.00%
+JavaScript   ███░░░░░░░░░░░░░░░░░   8.00%
+HTML & CSS   ██░░░░░░░░░░░░░░░░░░   7.00%
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
