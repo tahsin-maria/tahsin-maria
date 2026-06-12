@@ -180,24 +180,6 @@ Pursuing a rigorous engineering curriculum at one of Bangladesh's premier techni
 ---
 
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahsin-maria&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=9B59B6&line=6E40C9&point=ffffff&area=true&area_color=6E40C9" width="100%"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahsin-maria/tahsin-maria/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tahsin-maria/tahsin-maria/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/tahsin-maria/tahsin-maria/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
----
 
 ## 🎯 Current Focus
 
