@@ -47,29 +47,9 @@
   <img src="https://img.shields.io/github/stars/tahsin-maria?label=Stars&style=for-the-badge&color=9B59B6&labelColor=1a1a2e"/>
 </p>
 
----
 
-## 👩‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
-I'm **Tahsin Maria**, an Electronics & Computer Engineering student at **RUET (Batch '23)**, passionate about the intersection of hardware logic and software systems. I architect solutions at the boundary of embedded systems, data structures, and full-stack development — writing code that is readable, efficient, and built to last.
-
-My engineering foundation spans digital design, analog circuits, and computer architecture, while my software instincts lean towards competitive programming, clean frontend interfaces, and algorithmic problem-solving. I believe in building deeply rather than broadly — and in understanding every layer of what I create.
-
-Currently investing heavily in **DSA mastery**, **C++ systems programming**, **frontend web engineering**, and **digital systems design** — with my eyes set on a career in software engineering and embedded systems development.
-
-<br/>
-
-**🔭 Currently Working On:** DSA lab projects, digital systems simulations, and frontend development.
-
-**🌱 Currently Learning:** Advanced Data Structures, Algorithms, React.js, and Digital VLSI Design.
-
-**💡 Interested In:** Systems Programming · Embedded Engineering · Competitive Programming · Web Development
-
-**🤝 Open To:** Internships · Open Source Contributions · Research Collaborations · Technical Communities
-
-<br clear="right"/>
 
 ---
 
