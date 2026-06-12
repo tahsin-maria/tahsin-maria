@@ -1,12 +1,4 @@
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=tahsin-maria&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Tahsin%20Maria&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20Engineer%20%7C%20Software%20Developer%20%7C%20Competitive%20Programmer&descAlignY=60&descAlign=50" width="100%"/>
 </p>
@@ -18,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Sc-Electronics%20%26%20Communication%20Engineering-6E40C9?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/B.Sc-Electronics%20%26%20Computer%20Engineering-6E40C9?style=for-the-badge&logo=academia&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/RUET-Rajshahi%20University%20of%20Engineering%20%26%20Technology-4B0082?style=for-the-badge&logo=university&logoColor=white"/>
   &nbsp;
@@ -34,11 +26,11 @@
     <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6E40C9?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/tahsin-maria">
+  <a href="https://www.linkedin.com/in/tahsin-maria-131a62334/">
     <img src="https://img.shields.io/badge/LinkedIn-tahsin--maria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:tahsin.maria@student.ruet.ac.bd">
+  <a href="mailto:mariatahsin3.1416@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
@@ -61,7 +53,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
-I'm **Tahsin Maria**, an Electronics & Communication Engineering student at **RUET (Batch '23)**, passionate about the intersection of hardware logic and software systems. I architect solutions at the boundary of embedded systems, data structures, and full-stack development — writing code that is readable, efficient, and built to last.
+I'm **Tahsin Maria**, an Electronics & Computer Engineering student at **RUET (Batch '23)**, passionate about the intersection of hardware logic and software systems. I architect solutions at the boundary of embedded systems, data structures, and full-stack development — writing code that is readable, efficient, and built to last.
 
 My engineering foundation spans digital design, analog circuits, and computer architecture, while my software instincts lean towards competitive programming, clean frontend interfaces, and algorithmic problem-solving. I believe in building deeply rather than broadly — and in understanding every layer of what I create.
 
@@ -84,7 +76,7 @@ Currently investing heavily in **DSA mastery**, **C++ systems programming**, **f
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js&theme=dark&perline=7" />
 </p>
 
 **Languages**
@@ -92,7 +84,6 @@ Currently investing heavily in **DSA mastery**, **C++ systems programming**, **f
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 </p>
 
 **Frontend**
@@ -110,65 +101,12 @@ Currently investing heavily in **DSA mastery**, **C++ systems programming**, **f
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Logisim-4B0082?style=flat-square&logo=logic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Proteus-1a1a2e?style=flat-square&logo=electronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-## 🤖 Core Engineering Domains
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| **Digital Circuit Design** | ⬛⬛⬛⬛⬜ Advanced | Logisim simulations, FSMs, MUX/Decoder implementations, Shift Registers |
-| **Analog Electronics** | ⬛⬛⬛⬛⬜ Advanced | Op-Amp circuits, 555 Timer, Negative Feedback, Schmitt Triggers, CMOS |
-| **Data Structures & Algorithms** | ⬛⬛⬛⬜⬜ Intermediate | Linked Lists, Circular Queues, Dijkstra's, Sorting & Searching in C++ |
-| **Frontend Web Development** | ⬛⬛⬛⬜⬜ Intermediate | Responsive HTML/CSS/JS, Tailwind CSS, DOM Manipulation |
-| **Competitive Programming** | ⬛⬛⬛⬜⬜ Intermediate | Binary Search, Sliding Window, Two Pointers, Prefix Sums, Strings |
-| **Embedded Systems (Learning)** | ⬛⬛⬜⬜⬜ Developing | BJT/JFET Amplifiers, RC Oscillators, Proteus Simulation |
-
----
 
 ## 🚀 Featured Projects
-
-<details>
-<summary><b>⚡ Smart Water Distribution System — Rajshahi City</b></summary>
-
-<br/>
-
-A graph-based intelligent water dispatch system for Rajshahi City, implemented as a full **DSA Lab project** in C++. Designed to minimize resource distribution cost across city zones using advanced graph traversal and priority scheduling.
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | C++, STL Priority Queue, Adjacency List Graph |
-| **Algorithm** | Dijkstra's Shortest Path, Bidirectional Weighted Graph |
-| **Scale** | Multi-zone city network simulation |
-| **Architecture** | Modular dispatch engine with priority queue routing |
-| **Impact** | Demonstrates real-world graph algorithm application to infrastructure planning |
-| **Repository** | [tahsin-maria/smart-water-distribution](https://github.com/tahsin-maria) |
-
-The system models the Rajshahi city water grid as a weighted bidirectional graph where edge weights represent pipeline cost or distance. Dijkstra's algorithm is used to compute optimal dispatch routes from source reservoirs to demand zones, with a priority queue enabling real-time dynamic routing decisions.
-
-</details>
-
-<details>
-<summary><b>🗳️ Digital Voting Machine — Logisim Simulation</b></summary>
-
-<br/>
-
-A complete digital voting machine designed and simulated in **Logisim-Evolution**, submitted as the **ECE 2112 Digital Techniques Sessional** project. Implements full binary logic for vote casting, counting, and display.
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | Logisim-Evolution, Digital Logic Design |
-| **Components** | Counters, Decoders, 7-Segment Display, Multiplexers |
-| **Scale** | Multi-candidate voting with real-time tally |
-| **Security** | Single-vote enforcement via reset logic |
-| **Impact** | Demonstrates practical application of combinational and sequential logic |
-| **Repository** | [tahsin-maria/digital-voting-machine](https://github.com/tahsin-maria) |
-
-Designed in collaboration with teammates Raidah Binte Zaman and Fahima Chowdhury under the supervision of **Asst. Prof. Md. Omaer Faruq Goni**. The circuit integrates seven sub-circuits including coin accumulation logic, inventory management, dispenser control, and a display unit — each independently simulated and validated.
-
-</details>
 
 <details>
 <summary><b>🌐 Frontend Development Bootcamp — Programming Hero</b></summary>
@@ -209,22 +147,8 @@ Pursuing a rigorous engineering curriculum at one of Bangladesh's premier techni
 
 ---
 
-## 🏆 Achievements
 
-<p align="center">
 
-| 🏅 Recognition | 📋 Details |
-|:---|:---|
-| **DSA Lab Project Excellence** | Smart Water Distribution System — Dijkstra-based city-scale graph simulation |
-| **Digital Systems Sessional** | Digital Voting Machine — complete Logisim-Evolution circuit design |
-| **Competitive Programming** | Active problem-solver on LeetCode, CodeChef & Codeforces |
-| **96 GitHub Stars** | Starred resources spanning DSA, Python, and CS fundamentals |
-| **Frontend Engineering** | Programming Hero bootcamp completion — HTML/CSS/JS/Tailwind |
-| **41 Public Repositories** | Consistent open-source contribution and learning documentation |
-
-</p>
-
----
 
 ## 📜 Certifications
 
@@ -248,7 +172,7 @@ Pursuing a rigorous engineering curriculum at one of Bangladesh's premier techni
 ## 💻 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/tahsin-maria">
+  <a href="https://leetcode.com/u/tahsin_maria/">
     <img src="https://img.shields.io/badge/LeetCode-tahsin--maria-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   &nbsp;
@@ -256,11 +180,11 @@ Pursuing a rigorous engineering curriculum at one of Bangladesh's premier techni
     <img src="https://img.shields.io/badge/CodeChef-tahsin__maria-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://codeforces.com/profile/tahsin-maria">
+  <a href="https://codeforces.com/profile/tahsin_maria">
     <img src="https://img.shields.io/badge/Codeforces-tahsin--maria-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.hackerrank.com/tahsin-maria">
+  <a href="https://www.hackerrank.com/profile/mariatahsin3_141">
     <img src="https://img.shields.io/badge/HackerRank-tahsin--maria-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
@@ -281,13 +205,6 @@ Pursuing a rigorous engineering curriculum at one of Bangladesh's premier techni
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tahsin-maria&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest"/>
-</p>
-
----
 
 ## 📈 Contribution Activity
 
@@ -336,11 +253,11 @@ open_to:
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:tahsin.maria@student.ruet.ac.bd">
+  <a href="mailto:mariatahsin3.1416@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-tahsin.maria%40student.ruet.ac.bd-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <br/><br/>
-  <a href="https://www.linkedin.com/in/tahsin-maria">
+  <a href="https://www.linkedin.com/in/tahsin-maria-131a62334/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
