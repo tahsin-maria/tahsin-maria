@@ -46,7 +46,7 @@
   &nbsp;
   <img src="https://img.shields.io/github/stars/tahsin-maria?label=Stars&style=for-the-badge&color=9B59B6&labelColor=1a1a2e"/>
 </p>
----
+
 
 
 ## 🛠️ Tech Stack
@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/badge/Proteus-1a1a2e?style=flat-square&logo=electronics&logoColor=white"/>
 </p>
 
----
+
 
 
 ## 🚀 Featured Projects
@@ -104,7 +104,6 @@ Each milestone incrementally builds on the previous, covering raw HTML/CSS struc
 
 </details>
 
----
 
 ## 💼 Experience
 
@@ -121,7 +120,6 @@ Pursuing a rigorous engineering curriculum at one of Bangladesh's premier techni
 
 `C++` `Python` `Digital Design` `Analog Electronics` `Algorithms` `Frontend Development` `Proteus` `Logisim`
 
----
 
 
 
@@ -165,7 +163,7 @@ Pursuing a rigorous engineering curriculum at one of Bangladesh's premier techni
   </a>
 </p>
 
----
+
 
 ## 📊 GitHub Analytics
 
@@ -192,10 +190,27 @@ Pursuing a rigorous engineering curriculum at one of Bangladesh's premier techni
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tahsin-maria/tahsin-maria/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ---
 
 ## 🎯 Current Focus
