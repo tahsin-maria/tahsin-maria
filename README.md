@@ -5,12 +5,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&random=false&width=600&lines=Electronics+%26+Communication+Engineer;Software+%26+Systems+Developer;Competitive+Programmer+%7C+Problem+Solver;Frontend+Developer+%7C+Open+Source+Contributor;Building+clean+code%2C+one+commit+at+a+time." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&random=false&width=600&lines=Electrical+%26+Computer+Engineer;Software+%26+Systems+Developer;Competitive+Programmer+%7C+Problem+Solver;Frontend+Developer+%7C+Open+Source+Contributor;Building+clean+code%2C+one+commit+at+a+time." alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Sc-Electronics%20%26%20Computer%20Engineering-6E40C9?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/B.Sc-Electrical%20%26%20Computer%20Engineering-6E40C9?style=for-the-badge&logo=academia&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/RUET-Rajshahi%20University%20of%20Engineering%20%26%20Technology-4B0082?style=for-the-badge&logo=university&logoColor=white"/>
   &nbsp;
