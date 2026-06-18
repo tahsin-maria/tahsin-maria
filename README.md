@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Tahsin%20Maria&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20Engineer%20%7C%20Software%20Developer%20%7C%20Competitive%20Programmer&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF83C1&height=200&section=header&text=Tahsin%20Maria&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20Engineer%20%7C%20Software%20Developer%20%7C%20Competitive%20Programmer&descAlignY=60&descAlign=50" width="100%"/>
 </p>
 
 <p align="center">
@@ -173,10 +173,6 @@ Pursuing a rigorous engineering curriculum at one of Bangladesh's premier techni
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahsin-maria&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=9B59B6&text_color=c9d1d9&langs_count=8" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahsin-maria&theme=tokyonight&hide_border=true&background=0d0d1a&ring=6E40C9&fire=9B59B6&currStreakLabel=9B59B6&sideLabels=c9d1d9&dates=8b949e" width="500"/>
-</p>
-
 ---
 
 
@@ -232,5 +228,5 @@ open_to:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF83C1&height=120&section=footer&animation=fadeIn" width="100%"/>
 </p>
