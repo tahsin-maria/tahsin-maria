@@ -164,15 +164,6 @@ Pursuing a rigorous engineering curriculum at one of Bangladesh's premier techni
 </p>
 
 
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahsin-maria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=9B59B6&icon_color=6E40C9&text_color=c9d1d9&count_private=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahsin-maria&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=9B59B6&text_color=c9d1d9&langs_count=8" height="165"/>
-</p>
-
 ---
 
 
